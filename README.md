@@ -124,3 +124,5 @@ Since 1 is less than 9, the number 9.11 is less than 9.9 based on the tenths pla
 </answer>
 
 This shows the model's enhanced ability to follow instructions and present a clear, logical thought process, a direct result of the GRPO training with custom rewards.
+
+Note: The model's reasoning in the example is slightly flawed (a common challenge in LLM training), but the structural improvement is evident. Longer training would refine this further.
