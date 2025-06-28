@@ -104,7 +104,7 @@ When asked, "Which is bigger? 9.11 or 9.9?", the base model provides a correct b
 After GRPO Fine-Tuning:
 The fine-tuned model not only gets the answer right but also provides a step-by-step reasoning process in the desired format.
 
-&lt;reasoning&gt;
+&lt;reasoning&gt;  
 To determine which number is bigger between 9.11 and 9.9, we should compare the two numbers digit by digit from left to right.
 
 1. First, compare the digits in the units place:
