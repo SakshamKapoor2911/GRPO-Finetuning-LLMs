@@ -124,19 +124,3 @@ Since 1 is less than 9, the number 9.11 is less than 9.9 based on the tenths pla
 </answer>
 
 This shows the model's enhanced ability to follow instructions and present a clear, logical thought process, a direct result of the GRPO training with custom rewards.
-
-Note: The model's reasoning in the example is slightly flawed (a common challenge in LLM training), but the structural improvement is evident. Longer training would refine this further.
-
-🔮 Future Work
-Extended Training: Train the model for more steps and on a larger subset of the data to further improve accuracy.
-
-Advanced Reward Functions: Develop even more sophisticated reward functions to handle a wider variety of mathematical problems.
-
-Hyperparameter Tuning: Experiment with different learning rates, batch sizes, and LoRA configurations to optimize performance.
-
-Alternative Models: Adapt this pipeline to fine-tune other state-of-the-art LLMs.
-
-📫 Contact
-Your Name – your.email@example.com
-
-Project Link: https://github.com/yourusername/your-repo-name
