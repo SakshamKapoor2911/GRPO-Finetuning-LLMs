@@ -115,7 +115,6 @@ To determine which number is bigger between 9.11 and 9.9, we should compare the 
    - The number 9.9 has a 9 in the tenths place.
 
 Since 1 is less than 9, the number 9.11 is less than 9.9 based on the tenths place comparison.
-
 &lt;/reasoning&gt;
 
 &lt;answer&gt;  
