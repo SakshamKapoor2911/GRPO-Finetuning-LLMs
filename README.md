@@ -104,7 +104,7 @@ When asked, "Which is bigger? 9.11 or 9.9?", the base model provides a correct b
 After GRPO Fine-Tuning:
 The fine-tuned model not only gets the answer right but also provides a step-by-step reasoning process in the desired format.
 
-<reasoning>
+&lt;reasoning&gt;
 To determine which number is bigger between 9.11 and 9.9, we should compare the two numbers digit by digit from left to right.
 
 1. First, compare the digits in the units place:
@@ -116,11 +116,11 @@ To determine which number is bigger between 9.11 and 9.9, we should compare the 
 
 Since 1 is less than 9, the number 9.11 is less than 9.9 based on the tenths place comparison.
 
-</reasoning>
+&lt;/reasoning&gt;
 
-<answer>
+&lt;answer&gt;
 9.9 is bigger than 9.11.
-</answer>
+&lt;/answer&gt;
 
 This shows the model's enhanced ability to follow instructions and present a clear, logical thought process, a direct result of the GRPO training with custom rewards.
 
