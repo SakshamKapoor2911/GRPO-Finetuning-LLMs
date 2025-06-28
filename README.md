@@ -60,7 +60,7 @@ This iterative process fine-tunes the model to become a more effective mathemati
 
 ## ⚙️ Getting Started
 
-### 1. Installation
+### Installation
 
 This project can be run in a cloud environment like Google Colab or on a local machine with a suitable NVIDIA GPU.
 
@@ -77,8 +77,8 @@ pip install --upgrade pillow
 pip install git+[https://github.com/huggingface/trl.git@e95f9fb74a3c3647b86f251b7e230ec51c64b72b](https://github.com/huggingface/trl.git@e95f9fb74a3c3647b86f251b7e230ec51c64b72b)
 
 (Note: Use !pip if running in a Jupyter or Colab notebook).
-
-2. Running the Project
+```
+Running the Project
 The entire workflow is contained within the provided Jupyter Notebook (.ipynb). You can execute the cells sequentially to perform the following steps:
 
 Environment Setup: Patches the environment with Unsloth for optimized performance.
@@ -93,7 +93,7 @@ Inference: Tests the model's reasoning capabilities before and after GRPO traini
 
 Saving the Model: Provides commands to save the trained LoRA adapters or merge them into the base model for deployment.
 
-📈 Results
+## 📈 Results
 The fine-tuned model demonstrates a marked improvement in its ability to produce structured and accurate mathematical reasoning.
 
 Before GRPO Fine-Tuning:
